@@ -1,7 +1,0 @@
-added line1 
-added line2
-added line3
-added line4
-aws cloud
-azure cloud
-cloud data
