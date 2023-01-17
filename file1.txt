@@ -1,4 +1,7 @@
 added line1
 added line2
+<<<<<<< Updated upstream
 aws
 azure
+google
+ibm
